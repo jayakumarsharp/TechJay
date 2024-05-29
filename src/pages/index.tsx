@@ -34,8 +34,8 @@ const Main = ({ posts }: MainProps) => {
       <SEO
         title="Jayakumar Thangavel"
         description="Jayakumar Thangavel - Mobile App Developer, 5+ Hackathon Winner, and Tech Enthusiast."
-        canonicalUrl="http://www.geekydan.dev/"
-        ogImageUrl="http://www.geekydan.dev/assets/me.jpeg"
+        canonicalUrl="http://www.techjayakumar.dev/"
+        ogImageUrl="http://www.techjayakumar.dev/assets/me.jpeg"
       />
       <div className="flex flex-col min-h-screen">
         <Head>
@@ -49,7 +49,7 @@ const Main = ({ posts }: MainProps) => {
           />
           <meta
             name="twitter:image"
-            content="https://www.geekydan.dev/assets/memoji.png"
+            content="https://www.techjayakumar.dev/assets/memoji.png"
           />
           <meta
             name="description"
@@ -59,7 +59,7 @@ const Main = ({ posts }: MainProps) => {
             name="keywords"
             content="18 y/o self taught dev • full time indie hacker 👨‍💻 • building http://shopwise.tech  •  freelancer(helping startups soar) 🚀🚀  •  flutter developer  • mobile app developer  • software developer "
           />
-          <link rel="canonical" href="http://www.geekydan.dev/" />
+          <link rel="canonical" href="http://www.techjayakumar.dev/" />
           <script
             async
             src="https://www.googletagmanager.com/gtag/js?id=G-EW1YXYND70"

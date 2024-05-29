@@ -59,7 +59,7 @@ Cally - AI Powered Calendar's use and transfer to any other app of information r
 
 **Contact Us**
 
-If you have any questions or comments about this Privacy Policy, please contact us at [hi@geekydan.dev](mailto:hi@geekydan.dev)
+If you have any questions or comments about this Privacy Policy, please contact us at [hi@techjayakumar.dev](mailto:hi@techjayakumar.dev)
 `}
               </Markdown>
             </article>

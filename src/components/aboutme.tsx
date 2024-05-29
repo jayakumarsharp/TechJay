@@ -67,7 +67,7 @@ export default function AboutMe() {
                 Hi there! I'm Jayakumar Thangavel, a{" "}
                 <span className="text-blue">software engineer</span> who loves
                 diving into Fullstack application development. My toolbox is packed with
-                cool stuff like Flutter, Node.js, MongoDB,Firebase and more... <br />
+                cool stuff like ReactJs,Flutter, Node.js, MongoDB,Firebase and more... <br />
                 <br />
                 I've also had good knowledge in wealth management and working with 
                 <span className="text-blue"> SS&C Advent</span> Adding

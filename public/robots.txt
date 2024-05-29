@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://www.geekydan.dev/sitemap.xml
+Sitemap: https://www.techjayakumar.dev/sitemap.xml

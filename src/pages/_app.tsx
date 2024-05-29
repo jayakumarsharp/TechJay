@@ -39,7 +39,7 @@ function MyApp({ Component, pageProps }: AppProps) {
           content="https://dhanush.wtf/media/sac6qa5b9os.png"
         /> */}
       
-        {/* <link rel="canonical" href="http://www.geekydan.dev/" /> */}
+        {/* <link rel="canonical" href="http://www.techjayakumar.dev/" /> */}
         <link rel="icon" href="/assets/memoji.png" type="image/png" />
       </Head>
       <div

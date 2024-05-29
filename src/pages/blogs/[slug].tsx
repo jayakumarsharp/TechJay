@@ -67,7 +67,7 @@ const PostPage: React.FC<PostPageProps> = ({ post }) => {
       <Head>
         <meta
           property="og:image"
-          content={`http://geekydan.dev/api/og?title=${post.data.title}&subtitle=${post.data.subtitle}`}
+          content={`http://techjayakumar.dev/api/og?title=${post.data.title}&subtitle=${post.data.subtitle}`}
         />{" "}
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:site" content="@geeky_dan" />
@@ -78,11 +78,11 @@ const PostPage: React.FC<PostPageProps> = ({ post }) => {
         />
         <meta
           name="twitter:image"
-          content={`http://geekydan.dev/api/og?title=${post.data.title}&subtitle=${post.data.subtitle}`}
+          content={`http://techjayakumar.dev/api/og?title=${post.data.title}&subtitle=${post.data.subtitle}`}
         />
         <meta
           property="og:image"
-          content={`http://geekydan.dev/api/og?title=${post.data.title}&subtitle=${post.data.subtitle}`}
+          content={`http://techjayakumar.dev/api/og?title=${post.data.title}&subtitle=${post.data.subtitle}`}
         />
       </Head>
       <div className="relative min-h-screen">
