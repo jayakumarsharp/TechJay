@@ -34,11 +34,7 @@ function MyApp({ Component, pageProps }: AppProps) {
           property="og:description"
           content="18 y/o self taught dev • full time indie hacker 👨‍💻 • building http://shopwise.tech  •  freelancer(helping startups soar) 🚀🚀"
         />
-        {/* <meta
-          property="og:image"
-          content="https://dhanush.wtf/media/sac6qa5b9os.png"
-        /> */}
-      
+        
         {/* <link rel="canonical" href="http://www.techjayakumar.dev/" /> */}
         <link rel="icon" href="/assets/memoji.png" type="image/png" />
       </Head>
