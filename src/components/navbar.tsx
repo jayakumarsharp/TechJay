@@ -40,7 +40,7 @@ export default function NavBar() {
       <div className="flex   " >
         {/* <img src="assets/nav_logo.png" className="h-5 md:h-8 pl-2" alt="Logo" /> */}
         <h1 className="text-3xl lg:text-4xl font-[600]  text-blue">
-          {"<DV/>"}
+          {"<JAY/>"}
         </h1>
       </div>{" "}
       <button
@@ -154,14 +154,7 @@ export default function NavBar() {
                 Blogs
               </a>
             </li>
-            <li>
-              <a
-                href="#mentorship"
-                className="block py-2 pr-4 pl-3 text-white rounded hover:bg-blue-800 md:hover:bg-transparent md:border-0 md:hover:text-blue-300 md:p-0"
-              >
-                Mentorship
-              </a>
-            </li>
+           
           </ul>
         </div>
       </div>
