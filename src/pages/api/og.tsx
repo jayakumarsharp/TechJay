@@ -18,7 +18,7 @@ export default async function GET(req: NextRequest) {
           flexDirection: "column",
           alignItems: "flex-start",
           justifyContent: "flex-start",
-          backgroundImage: "url(https://dhanush.wtf/media/bjo4io6bgum.png)",
+          backgroundImage: "/assets/me.jpeg",
         }}
       >
         <div
